@@ -1,6 +1,6 @@
 CS303HW3
 
-for CS303 HW3 problem 1, 2 and 5 please open and run each project folder. Each homework 3 project folder contains a .cpp and .h. 
+for CS303 HW3 problem 1, 2 and 5 please open and run each project folder. Each homework 3 project folder contains a .cpp and .h file. 
 
 #1
 output:
